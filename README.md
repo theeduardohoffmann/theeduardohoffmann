@@ -72,7 +72,7 @@ Tenho dedicado meus estudos às linguagens **Java** e **Python**, além de estar
 
 ---
 
-### 📊 Estatísticas GitHub
+###  Estatísticas GitHub
 
 <p>
   <img 
@@ -93,14 +93,5 @@ Tenho dedicado meus estudos às linguagens **Java** e **Python**, além de estar
 
 ---
 
-### 🎯 Objetivos Atuais
 
-- Aprimorar programação orientada a objetos com Java  
-- Consolidar fundamentos em algoritmos e estruturas de dados  
-- Desenvolver projetos práticos em Python e Web  
-- Utilizar versionamento eficiente com Git e GitHub  
-- Participar de projetos acadêmicos para aplicar o conhecimento técnico
 
----
-
-> *Este README será atualizado conforme a evolução dos meus estudos e projetos.*
