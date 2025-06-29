@@ -1,55 +1,46 @@
 # ☕💻 Eduardo Hoffmann Araújo
 
-**`Estudante de Ciência da Computação | Desenvolvedor em Formação`**
+**`Estudante de Ciência da Computação | Desenvolvedor Front-End em Formação`**
 
-Me chamo Eduardo Hoffmann Araújo, tenho 19 anos e sou natural do Rio Grande do Sul. Atualmente curso **Ciência da Computação na PUCRS**, com ênfase em desenvolvimento back-end e fundamentos de estruturas de dados e algoritmos.
+Olá! Me chamo Eduardo Hoffmann Araújo, tenho 19 anos e sou natural do Rio Grande do Sul. Atualmente curso **Ciência da Computação na PUCRS**, onde estou em constante desenvolvimento de habilidades relacionadas à programação, construção de interfaces web e boas práticas de desenvolvimento.
 
-Tenho dedicado meus estudos às linguagens **Java** e **Python**, além de estar aprimorando minhas habilidades em **HTML** e **CSS** com o suporte de cursos como os da plataforma **Alura**. Estou em busca de oportunidades para aplicar meus conhecimentos em projetos reais e expandir minha atuação profissional na área de tecnologia.
+Busco evoluir profissionalmente como **desenvolvedor front-end**, explorando tecnologias modernas e práticas atuais do mercado. Estou sempre em busca de desafios que me permitam aplicar e expandir meus conhecimentos.
 
 <p align="left">
     <a href="mailto:eduardo.hoffmann1010@gmail.com">
         <img 
             alt="Email" 
-            title="Entre em contato por email" 
-            src="https://img.shields.io/badge/-Email-%23333?style=for-the-badge&logo=gmail&logoColor=white"
+            title="Email" 
+            src="https://img.shields.io/badge/-eduardo.hoffmann1010@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white"
+        />
+    </a>
+    <a href="https://www.instagram.com/_duuh_/">
+        <img 
+            alt="Instagram" 
+            title="Instagram" 
+            src="https://img.shields.io/badge/-@_duuh_-E4405F?style=for-the-badge&logo=instagram&logoColor=white"
         />
     </a>
     <a href="https://github.com/theeduardohoffmann?tab=repositories&sort=stargazers">
         <img 
             alt="Estrelas" 
-            title="Total de estrelas GitHub" 
-            src="https://custom-icon-badges.demolab.com/github/stars/theeduardohoffmann?color=55960c&style=for-the-badge&labelColor=2c2c2c&logo=star&label=Estrelas"
+            title="Estrelas no GitHub" 
+            src="https://img.shields.io/badge/GitHub%20Estrelas-⭐-2c2c2c?style=for-the-badge&logo=github&logoColor=white"
         />
     </a>
     <a href="https://github.com/theeduardohoffmann?tab=followers">
         <img 
             alt="Seguidores" 
-            title="Me siga no GitHub" 
-            src="https://custom-icon-badges.demolab.com/github/followers/theeduardohoffmann?color=236ad3&labelColor=2c2c2c&style=for-the-badge&logo=github&label=Seguidores&logoColor=white"
+            title="Seguidores no GitHub" 
+            src="https://img.shields.io/badge/Seguidores-🔵-2c2c2c?style=for-the-badge&logo=github&logoColor=white"
         />
     </a>
 </p>
 
 ---
 
-### ⚙️ Linguagens e Tecnologias
+###  Tecnologias
 
-<img 
-    align="left" 
-    alt="Java"
-    title="Java" 
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="Python" 
-    title="Python"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" 
-/>
 <img 
     align="left" 
     alt="HTML"
@@ -66,6 +57,30 @@ Tenho dedicado meus estudos às linguagens **Java** e **Python**, além de estar
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" 
 />
+<img 
+    align="left" 
+    alt="JavaScript" 
+    title="JavaScript"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" 
+/>
+<img 
+    align="left" 
+    alt="Java"
+    title="Java" 
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" 
+/>
+<img 
+    align="left" 
+    alt="Python" 
+    title="Python"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" 
+/>
 
 <br/>
 <br/>
@@ -74,24 +89,16 @@ Tenho dedicado meus estudos às linguagens **Java** e **Python**, além de estar
 
 ###  Estatísticas GitHub
 
-<p>
+<div align="center">
   <img 
-    align="left" 
-    alt="GitHub Stats" 
-    height="180" 
+    height="180em" 
     src="https://github-readme-stats.vercel.app/api?username=theeduardohoffmann&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
   />
   <img 
-    align="left" 
-    alt="Top Langs" 
-    height="180" 
+    height="180em" 
     src="https://github-readme-stats.vercel.app/api/top-langs/?username=theeduardohoffmann&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=8" 
   />
-</p>
-
-<br/><br/><br/><br/><br/><br/><br/><br/><br/><br/><br/>
+</div>
 
 ---
-
-
 
