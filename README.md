@@ -6,7 +6,7 @@
 
 ### 👨‍🎓 Sobre Mim
 
-Sou estudante de **Ciência da Computação na PUCRS**, com 19 anos e natural do **Rio Grande do Sul**. Tenho interesse em desenvolvimento web e tecnologias voltadas para o front-end. Estou constantemente aprimorando meus conhecimentos por meio de projetos, cursos e desafios práticos. 
+Sou estudante de **Engenharia de Software na PUCRS**, com 19 anos e natural do **Rio Grande do Sul**. Tenho interesse em desenvolvimento web e tecnologias voltadas para o front-end. Estou constantemente aprimorando meus conhecimentos por meio de projetos, cursos e desafios práticos. 
 
 Procuro oportunidades que me desafiem a aplicar minhas habilidades em ambientes reais e colaborativos.
 
