@@ -1,6 +1,6 @@
 <h1 align="center">☕💻 Eduardo Hoffmann Araújo</h1>
 
-<p align="center"><i>Estudante de Engenharia de Software | Desenvolvedor Front-End em Formação</i></p>
+<p align="center"><i>Estudante de Engenharia de Software | Dev em Formação</i></p>
 
 ---
 
