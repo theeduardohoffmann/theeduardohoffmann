@@ -6,9 +6,13 @@
 
 ### 👨‍🎓 Sobre Mim
 
-Sou estudante de **Engenharia de Software na PUCRS**, com 20 anos e natural do **Rio Grande do Sul**. Tenho interesse em desenvolvimento web e tecnologias. Estou constantemente aprimorando meus conhecimentos por meio de projetos, cursos e desafios práticos. 
-
-Procuro oportunidades que me desafiem a aplicar minhas habilidades em ambientes reais e colaborativos.
+👋 Olá, eu sou o Eduardo Hoffmann
+🎓 Estudante de Engenharia de Software na PUCRS – Porto Alegre, RS (2º ano)
+💻 Desenvolvedor com foco em Back-End | Java · JavaScript · SQL · Git
+🌱 Atualmente aprendendo Spring Boot, Node.js e APIs REST
+📚 Complementando minha formação com cursos na Alura e Codecademy
+🤝 Experiência em trabalho voluntário com crianças carentes e nas enchentes do RS
+🚀 Em busca da minha primeira oportunidade profissional na área de tecnologia
 
 ---
 
@@ -55,18 +59,6 @@ Procuro oportunidades que me desafiem a aplicar minhas habilidades em ambientes 
 
 ---
 
-###  Estatísticas GitHub
-
-<div align="center">
-  <img
-    height="180em"
-    src="https://github-readme-stats.vercel.app/api?username=theeduardohoffmann&show_icons=true&include_all_commits=true&locale=pt-br&bg_color=121212&text_color=4CAF50&icon_color=81C784&title_color=A5D6A7&border_color=2E7D32"
-  />
-  <img
-    height="180em"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=theeduardohoffmann&layout=compact&langs_count=8&custom_title=Tecnologias&bg_color=121212&text_color=4CAF50&title_color=A5D6A7&border_color=2E7D32"
-  />
-</div>
 
 ---
 
